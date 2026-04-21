@@ -1,0 +1,5 @@
+{
+  "name": "Binary Tree Preorder Traversal Visualizer",
+  "description": "An interactive educational tool to visualize the Preorder Traversal (Root -> Left -> Right) of a binary tree.",
+  "requestFramePermissions": []
+}
